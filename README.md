@@ -758,7 +758,3 @@ Focus areas:
 * Production AI Systems
 
 ---
-
-## License
-
-Add the appropriate license for your repository before publishing.
